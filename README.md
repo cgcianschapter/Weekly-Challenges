@@ -1,11 +1,13 @@
 # Weekly-Challenges
-Weekly challenges for members to practice competitive coding. The solution and approach will be explained on weekends over our Discord server for those who couldn't solve the problem on their own.
+Weekly challenges for members to practice competitive coding. The solution and approach will be explained on weekends over our Discord server for those who couldn't solve the problem on their own.  
+<br>
 
 ## Jump To
 &#8226; [Current Week](https://github.com/cgcianschapter/Weekly-Challenges#current-week)  
 &#8226; [Week 1](https://github.com/cgcianschapter/Weekly-Challenges#week-1---basic-io-and-loops)  
 &#8226; [Week 2](https://github.com/cgcianschapter/Weekly-Challenges#week-2---basic-io-and-loops)  
-&#8226; [Week 3](https://github.com/cgcianschapter/Weekly-Challenges#week-3---conditions-and-loops)
+&#8226; [Week 3](https://github.com/cgcianschapter/Weekly-Challenges#week-3---conditions-and-loops)  
+<br>
 
 ## Current Week
 
@@ -21,6 +23,7 @@ Difficulty: Cakewalk
 #### Problem 4  
 Problem Code: [CIELRCPT](https://www.codechef.com/problems/CIELRCPT)  
 Difficulty: Easy   
+<br>
 
 ## Past Problems
 
