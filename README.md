@@ -6,22 +6,23 @@ Weekly challenges for members to practice competitive coding. The solution and a
 &#8226; [Current Week](https://github.com/cgcianschapter/Weekly-Challenges#current-week)  
 &#8226; [Week 1](https://github.com/cgcianschapter/Weekly-Challenges#week-1---basic-io-and-loops)  
 &#8226; [Week 2](https://github.com/cgcianschapter/Weekly-Challenges#week-2---basic-io-and-loops)  
-&#8226; [Week 3](https://github.com/cgcianschapter/Weekly-Challenges#week-3---conditions-and-loops)  
+&#8226; [Week 3](https://github.com/cgcianschapter/Weekly-Challenges#week-3---conditions-and-loops)
+&#8226; [Week 4](https://github.com/cgcianschapter/Weekly-Challenges#week-4---conditions-ans-loops)
 <br>
 
 ## Current Week
 
 #### Problem 1  
-Problem Code: [TSORT](https://www.codechef.com/problems/TSORT)    
+Problem Code: [AREAPERI](https://www.codechef.com/problems/AREAPERI)    
 Difficulty: Cakewalk  
 #### Problem 2  
-Problem Code: [AMR15A](https://www.codechef.com/problems/AMR15A)   
+Problem Code: [CCOOK](https://www.codechef.com/problems/CCOOK)   
 Difficulty: Cakewalk  
 #### Problem 3  
-Problem Code: [PALL01](https://www.codechef.com/problems/PALL01)   
+Problem Code: [CHFINTRO](https://www.codechef.com/problems/CHFINTRO)   
 Difficulty: Cakewalk  
 #### Problem 4  
-Problem Code: [CIELRCPT](https://www.codechef.com/problems/CIELRCPT)  
+Problem Code: [ATM2](https://www.codechef.com/problems/ATM2)  
 Difficulty: Easy   
 <br>
 
@@ -70,4 +71,20 @@ Difficulty: Cakewalk
 #### Problem 4  
 Problem Code: [CIELRCPT](https://www.codechef.com/problems/CIELRCPT)  
 Difficulty: Easy  
+<br>
+
+### Week 4 - Conditions and Loops
+
+#### Problem 1  
+Problem Code: [AREAPERI](https://www.codechef.com/problems/AREAPERI)    
+Difficulty: Cakewalk  
+#### Problem 2  
+Problem Code: [CCOOK](https://www.codechef.com/problems/CCOOK)   
+Difficulty: Cakewalk  
+#### Problem 3  
+Problem Code: [CHFINTRO](https://www.codechef.com/problems/CHFINTRO)   
+Difficulty: Cakewalk  
+#### Problem 4  
+Problem Code: [ATM2](https://www.codechef.com/problems/ATM2)  
+Difficulty: Easy 
 <br>
